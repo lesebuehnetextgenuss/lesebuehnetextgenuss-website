@@ -11,6 +11,8 @@
     {% endif %}
 </a>
 
+<aside>{{site.description}}</aside>
+
 <nav>
     <a href="/">Aktuelles</a>
     <a href="/galerie.html">Galerie</a>
@@ -18,3 +20,13 @@
     <a href="/ueber-uns.html">Über uns</a>
     <a href="/kontakt.html">Kontakt</a>
 </nav>
+
+<a href="{{site.announcement_link}}">
+    <div id="announcement">{{site.announcement | newline_to_br }}</div>
+</a>
+
+<div id="socialbox">
+    <a href="{{site.facebook}}" target="_blank"><span class="icon-facebook"></span></a>
+    <a href="{{site.instagram}}" target="_blank"><span class="icon-instagram"></span></a>
+    <a href="mailto:{{site.mailto}}" target="_blank"><span class="icon-mail"></span></a>
+</div>

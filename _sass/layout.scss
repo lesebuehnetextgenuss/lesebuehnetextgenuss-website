@@ -68,20 +68,51 @@ p {
 
 #navbar {
     grid-area: sidebar;
-    margin-right: 1em;
+    margin-right: 1.5em;
+    padding-right: 1.5em;
     font-size: .9em;
     border-right: 1px solid #ccc;
 
-    a:first-of-type {
+    >a:first-of-type {
         text-decoration: none;
     }
 
     img {
-        max-width: 95%;
+        width: 100%;
     }
 
-    [class^="icon-"] {
-        margin-right: .5em;
+    aside {
+        font-size: .9em;
+        color: #666666;
+        margin-bottom: 2rem;
+    }
+
+    #socialbox {
+        display: flex;
+        justify-content: space-evenly;
+        padding: 1em 4em 0 4em;
+        border-top: 1px solid #ccc;
+        width: 100%;
+
+        [class^="icon-"] {
+            margin-right: .5em;
+            font-size: 2.5em;
+        }
+
+        a {
+            text-decoration: none;
+        }
+    }
+
+    #announcement {
+        background: #ffee02;
+        border-radius: 1em;
+        font-size: 1.75em;
+        padding: .5em;
+        text-decoration: underline;
+        text-align: center;
+        margin-bottom: 1em;
+        transform: rotate(-4deg);
     }
 
     h1 {
@@ -91,7 +122,7 @@ p {
 
     h1,
     h2 {
-        margin-bottom: 1em;
+        margin-bottom: .5em;
         font-size: 1.7rem;
 
     }
@@ -100,7 +131,7 @@ p {
         a {
             display: block;
             padding: 1em;
-            width: 95%;
+            width: 100%;
             text-align: center;
             border: 1px solid #cccccc;
             margin-bottom: 1em;

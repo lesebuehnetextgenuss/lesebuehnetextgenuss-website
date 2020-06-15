@@ -23,6 +23,7 @@ Wilhelm-Bluhm-Straße 23
 30451 Hannover
 
 ## Kontakt:
+
 E-Mail:  {{ site.email }}
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
