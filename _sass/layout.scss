@@ -6,11 +6,20 @@ html {
 
 body {
     margin: 1.5em;
+
+    a {
+        text-decoration: underline solid transparent;
+        transition: text-decoration .25s ease;
+
+        &:hover {
+            text-decoration: underline solid currentColor;
+        }
+    }
 }
 
 @for $index from 1 through 6 {
     h#{$index} {
-        font-weight: 200;
+        font-weight: 700;
         line-height: 1.5em;
         letter-spacing: -0.025em;
     }
@@ -55,37 +64,57 @@ p {
 #header {
     grid-area: header;
 
-    h1 {
-        font-size: 2em;
-        margin-bottom: 1em;
-
-        a {
-            text-decoration: none;
-        }
-    }
 }
 
-#sidebar {
+#navbar {
     grid-area: sidebar;
     margin-right: 1em;
     font-size: .9em;
+    border-right: 1px solid #ccc;
 
-    p:first-of-type {
-        margin-top: 0.5em;
+    a:first-of-type {
+        text-decoration: none;
+    }
+
+    img {
+        max-width: 95%;
     }
 
     [class^="icon-"] {
         margin-right: .5em;
     }
 
-    .sidenote {
-        color: #666666;
-        font-size: .75em;
-    }
-
     h1 {
         margin-top: 0;
     }
+
+
+    h1,
+    h2 {
+        margin-bottom: 1em;
+        font-size: 1.7rem;
+
+    }
+
+    nav {
+        a {
+            display: block;
+            padding: 1em;
+            width: 95%;
+            text-align: center;
+            border: 1px solid #cccccc;
+            margin-bottom: 1em;
+            font-weight: 700;
+            font-size: 1.25em;
+            transition: all .25s ease;
+
+            &:hover {
+                background-color: #000;
+                color: #ffffff;
+            }
+        }
+    }
+
 }
 
 
@@ -102,11 +131,38 @@ p {
             margin-top: 0em;
         }
     }
+
+    img {
+        max-width: calc(100% - 2em);
+        margin-bottom: 1em;
+    }
+
+    .lesende {
+        p:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        img {
+            max-width: 40%;
+            border: none;
+            padding: 0;
+            float: left;
+            margin: 0 1em 0 0;
+        }
+
+        p:nth-of-type(even)>img {
+            float: right;
+            margin: 0 0 0 1em;
+        }
+    }
 }
 
 #footer {
+    margin-top: 1em;
     grid-area: footer;
     text-align: center;
-    font-size: 11pt;
+    font-size: .8em;
     color: #555;
 }

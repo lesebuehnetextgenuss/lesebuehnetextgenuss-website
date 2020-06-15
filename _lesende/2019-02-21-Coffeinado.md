@@ -1,0 +1,7 @@
+---
+title: Coffeinado (21.2.2019, V17)
+---
+
+{% picture _lesende/leser.jpg %} **Theresa Sambruno** hängt gerne mit Worten ab, weswegen sie diese auch in Form von Neuerer deutscher Literaturwissenschaft hier in Hannover studiert. Neben ihrer wissenschaftlichen Arbeit schreibt sie Gedichte und Kurzprosa. In ihren Texten widmet sie sich gesellschaftlich unterrepräsentierten Dingen, wie der Maraschinokirsche, und dem Verdrehen von Tatsachen.
+
+{% picture _lesende/leser.jpg %} **Theresa Sambruno** hängt gerne mit Worten ab, weswegen sie diese auch in Form von Neuerer deutscher Literaturwissenschaft hier in Hannover studiert. Neben ihrer wissenschaftlichen Arbeit schreibt sie Gedichte und Kurzprosa. In ihren Texten widmet sie sich gesellschaftlich unterrepräsentierten Dingen, wie der Maraschinokirsche, und dem Verdrehen von Tatsachen. deutscher Literaturwissenschaft hier in Hannover studiert. Neben ihrer wissenschaftlichen Arbeit schreibt sie Gedichte und Kurzprosa. In ihren Texten widmet sie sich gesellschaftlich unterrepräsentierten Dingen, wie der Maraschinokirsche, und dem Verdrehen von Tatsachen.

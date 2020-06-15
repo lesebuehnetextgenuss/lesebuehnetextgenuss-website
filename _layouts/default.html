@@ -5,27 +5,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>{{ page.title | default: site.title }}</title>
-    <link rel="stylesheet" href="assets/fonts/inter.css">
-    <link rel="stylesheet" href="assets/fonts/icomoon.css">
-    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="/assets/fonts/inter.css">
+    <link rel="stylesheet" href="/assets/fonts/icomoon.css">
+    <link rel="stylesheet" href="/assets/css/styles.css">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
 </head>
 
 <body>
     <div id="frame">
-        <div id="header">
-            {% capture header_include %}{% include header.md %}{% endcapture %}
-            {{ header_include | markdownify }}
-        </div>
         <div id="navbar">
-            {% capture navbar_include %}{% include navbar.md %}{% endcapture %}
-            {{ navbar_include | markdownify }}
+            {% include navbar.html %}
         </div>
         <div id="main">
+            {% if page.title %} <h1> {{ page.title }} </h1> {% endif %}
             {{ content }}
         </div>
         <div id="footer">
-            {% capture footer_include %}{% include footer.md %}{% endcapture %}
+            {% capture footer_include %}{% include footer.html %}{% endcapture %}
             {{ footer_include | markdownify }}
         </div>
     </div>

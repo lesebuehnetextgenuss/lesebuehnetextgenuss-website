@@ -1,4 +1,21 @@
-title: Lesebühne Text Genuß & Schnaps + Vorträge
+title: |
+        Lesebühne 
+        Text Genuß & 
+        Schnaps + Vorträge
+url: /
 sass:
         sass_dir: _sass
         style: compressed
+defaults:
+  -
+    scope:
+      path: "" 
+    values:
+      layout: "default"
+
+timezone: Europe/Berlin
+livereload: true
+
+collections:
+  lesende: 
+    output: true
