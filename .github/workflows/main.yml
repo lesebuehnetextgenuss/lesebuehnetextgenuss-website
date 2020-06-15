@@ -20,4 +20,4 @@ jobs:
     # Standard usage
     - uses:  helaili/jekyll-action@2.0.3
       env:
-        JEKYLL_PAT: ${{ GITHUB_TOKEN }}
+        JEKYLL_PAT: ${{ secrets.GITHUB_TOKEN }}
