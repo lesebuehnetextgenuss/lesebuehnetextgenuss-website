@@ -20,7 +20,7 @@ body {
 @for $index from 1 through 6 {
     h#{$index} {
         font-weight: 700;
-        line-height: 1.5em;
+        line-height: 1.3em;
         letter-spacing: -0.025em;
     }
 }
@@ -123,7 +123,7 @@ p {
     h1,
     h2 {
         margin-bottom: .5em;
-        font-size: 1.7rem;
+        font-size: 1.8rem;
 
     }
 
