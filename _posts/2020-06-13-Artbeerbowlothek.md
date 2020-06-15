@@ -2,6 +2,8 @@
 title: "Artbeerbowlothek: Jetzt mitmachen!"
 ---
 
+{% picture fotos/mitmachen.jpg %}
+
 Wir bleiben optimistisch. Und zur Not digital.
 
 So oder so:  Wir planen jetzt einfach mal unsere nächste Lesebühne - dieses mal aber anders als sonst. Nämlich als locker-luftige Matinée mit Erdbeerbowle und Frühsommergefühlen. 
