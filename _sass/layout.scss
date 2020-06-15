@@ -157,6 +157,35 @@ p {
             margin: 0 0 0 1em;
         }
     }
+
+    .gallery {
+        margin-bottom: 1em;
+        border-bottom: 1px solid #cccccc;
+
+        .imagelist {
+
+            display: flex;
+            flex-wrap: wrap;
+
+            a {
+                width: calc(50% - .5em);
+
+                margin-right: .5em;
+                margin-bottom: 2em;
+
+                img {
+                    margin-bottom: 0em;
+                }
+            }
+        }
+
+        .byline {
+            font-size: .9em;
+            color: #999;
+            margin-bottom: .5em;
+            display: block;
+        }
+    }
 }
 
 #footer {

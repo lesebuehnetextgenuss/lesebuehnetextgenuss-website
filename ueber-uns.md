@@ -2,7 +2,7 @@
 title: Über uns
 ---
 
-{% picture assets/images/schnaps.jpg %}
+{% picture fotos/schnaps.jpg %}
 
 Die **Lesebühne Text Genuß & Schnaps + Vorträge** wurde im **Herbst 2018** von Jan Fischer und Gila Hofmann gegründet, für alle, die jenseits von Poetry Slam und Wasserglaslesungen für etablierte Autor*innen eine Bühne für Literatur vermissen.
 

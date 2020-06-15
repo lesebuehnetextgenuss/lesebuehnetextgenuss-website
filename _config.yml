@@ -2,6 +2,17 @@ title: |
         Lesebühne 
         Text Genuß & 
         Schnaps + Vorträge
+description: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  Vivamus non lacus eget lacus commodo iaculis. 
+  Quisque lobortis felis et bibendum egestas. 
+email: lesebuehnehannover@gmail.com
+naechste_veranstaltung: >-
+  Nächste Lesung am:
+  27.6.20
+
+
+
 url: /
 sass:
         sass_dir: _sass

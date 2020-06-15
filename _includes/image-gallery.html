@@ -1,0 +1,11 @@
+<div class="gallery">
+    <h2>{{include.title}}</h2>
+    <div class="imagelist">
+        {% for image in site.static_files %}
+        {% if image.path contains include.gallery %}
+        <a href="{{image.path}}" class="glightbox">{% picture "{{image.path}}" %}</a>
+        {% endif %}
+        {% endfor %}
+    </div>
+    <span class="byline">{{include.byline}}</span>
+</div>
