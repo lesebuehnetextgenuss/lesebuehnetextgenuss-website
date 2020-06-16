@@ -27,5 +27,7 @@ jobs:
           # "Secret" variable. This should be the value of a personal
           # access token granted, at a minimum, the `public_repo` and
           # the `repo_deployment` scopes needed to deploy to GH Pages.
-          secret_gh_pages_api_token: ${{ secrets.GITHUB_TOKEN }}
-
+          secret_gh_pages_api_token: ${{ secrets.GITHUB_TOKEN }}    
+          pre_build_commands: |
+              apk update
+              apk install imagemagick
