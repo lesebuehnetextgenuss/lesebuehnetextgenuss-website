@@ -24,4 +24,4 @@ Eintritt auf Spendenbasis und solange der Platz reicht.
 
 [Sollte die Veranstaltung nicht durchführbar sein, weichen wir auf eine digitale Variante aus. Aber keine Sorge: Eure Literatur bekommt ihr auf die eine oder andere Art.]
 
-Mehr Infos gibt es [hier](https://lesebuehnehannover.wixsite.com/textgenuss/kontakt) und [hier](https://www.facebook.com/events/2512185475701916).
+Mehr Infos gibt es [hier](kontakt.html) und [hier](https://www.facebook.com/events/2512185475701916).
