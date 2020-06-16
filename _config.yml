@@ -29,7 +29,3 @@ defaults:
       layout: "default"
 
 timezone: Europe/Berlin
-
-picture:
-  relative_url: true
-  cdn_url: https://www.merlinschumacher.de/lesebuehnetextgenuss.github.io/
