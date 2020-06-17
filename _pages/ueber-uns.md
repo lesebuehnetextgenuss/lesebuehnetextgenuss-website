@@ -1,5 +1,6 @@
 ---
 title: Über uns
+permalink: ueber-uns.html
 ---
 
 [](fotos/schnaps.jpg)
