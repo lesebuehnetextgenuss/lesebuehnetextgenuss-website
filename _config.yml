@@ -19,6 +19,8 @@ collections:
     output: true
   pages: 
     output: true
+  galerie: 
+    output: true
 
 sass:
         sass_dir: _sass
