@@ -2,7 +2,7 @@
 title: Kontakt und Einsendungen 
 ---
 
-{% picture fotos/gilajan.jpg %}
+[](fotos/gilajan.jpg)
 Ihr wollt uns etwas sagen?
 
 Ihr wollt mitmachen?
