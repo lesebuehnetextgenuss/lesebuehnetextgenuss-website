@@ -2,6 +2,10 @@
 title: Galerie
 layout: gallery
 ---
-{% include image-gallery.html gallery="fahrenheit" title="Fahrenheit" byline="Fotos: Lieschen Müller" %}
-
-{% include image-gallery.html gallery="fahrenheit" title="Kelvin" byline="Fotos: Lieschen Müller" %}
+{::options parse_block_html="true" /}
+<div class="gallery">
+{% for post in site.lesende %}   
+## <a href="{{ post.url }}">  {{ post.title }} </a>
+{{ post.content }}
+{% endfor %}
+</div>
