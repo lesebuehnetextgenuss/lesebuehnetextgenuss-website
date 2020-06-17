@@ -1,6 +1,8 @@
 ---
 title: "Artbeerbowlothek: Jetzt mitmachen!"
+date: 2020-06-17T16:43:23.139Z
 ---
+![](/fotos/mitmachen.jpg)
 
 {% picture fotos/mitmachen.jpg %}
 
@@ -22,6 +24,6 @@ Selbstverständlich gibt es dann auch wieder Schnaps satt für alle, dieses Mal 
 
 Eintritt auf Spendenbasis und solange der Platz reicht. 
 
-[Sollte die Veranstaltung nicht durchführbar sein, weichen wir auf eine digitale Variante aus. Aber keine Sorge: Eure Literatur bekommt ihr auf die eine oder andere Art.]
+\[Sollte die Veranstaltung nicht durchführbar sein, weichen wir auf eine digitale Variante aus. Aber keine Sorge: Eure Literatur bekommt ihr auf die eine oder andere Art.]
 
 Mehr Infos gibt es [hier](kontakt.html) und [hier](https://www.facebook.com/events/2512185475701916).
