@@ -17,6 +17,8 @@ announcement_link: 2020/06/13/Artbeerbowlothek.html
 collections:
   lesende: 
     output: true
+  pages: 
+    output: true
 
 sass:
         sass_dir: _sass
