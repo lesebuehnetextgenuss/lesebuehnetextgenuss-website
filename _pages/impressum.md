@@ -1,5 +1,6 @@
 ---
 title: Impressum / Disclaimer
+permalink: impressum.html
 ---
 
 ## Haftung für Inhalte
