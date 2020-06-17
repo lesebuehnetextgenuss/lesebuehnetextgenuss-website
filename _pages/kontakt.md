@@ -1,5 +1,6 @@
 ---
-title: Kontakt und Einsendungen 
+title: Kontakt und Einsendungen
+permalink: kontakt.html
 ---
 
 [](fotos/gilajan.jpg)
