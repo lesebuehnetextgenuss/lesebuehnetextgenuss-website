@@ -4,10 +4,10 @@ date: 2020-06-17 19:28:44 +02:00
 layout: gallery
 ---
 
-![](/upload/leser.jpg)
+![](/uploads/leser.jpg)
 
-![](/upload/gilajan.jpg)
+![](/uploads/gilajan.jpg)
 
-![](/upload/schnaps.jpg)
+![](/uploads/schnaps.jpg)
 
 Bilder: Max Mustermann
