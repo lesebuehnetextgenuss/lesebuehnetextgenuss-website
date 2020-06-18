@@ -11,6 +11,6 @@ end
 
 Jekyll::Hooks.register :galerie, :pre_render do |post, payload|
   docExt = post.extname.tr('.', '')
-  post.content.gsub!(/!\[(.*)\]\(([^\)]+)\)(?:{:([^}]+)})*/, '{% galerie_image path: \2 \3 %}')
+  post.content.gsub!(/!\[(.*)\]\(([^\)]+)\)(?:{:([^}]+)})*/, '<a href="\2">{% responsive_image path: \2 \3 %}</a>')
   post.content.gsub! 'path: /', 'path: ' #you can probably optimise this a bit
 end
