@@ -8,9 +8,6 @@ collections:
   lesende:
     title: Lesende
     output: true
-  pages:
-    title: Pages
-    output: true
   posts:
     title: Posts
     output: true
@@ -49,32 +46,3 @@ responsive_image:
   cache: true
   extra_images:
   - uploads/*/*/*/*.{jpeg,jpg}
-prose:
-  siteurl: http://lb.merlinschumacher.de
-  media: fotos
-  metadata:
-    _posts:
-    - name: layout
-      field:
-        element: hidden
-        value: default
-    - name: title
-      field:
-        element: text
-        label: Title
-        value: 
-    _pages:
-    - name: layout
-      field:
-        element: hidden
-        value: page
-    - name: title
-      field:
-        element: text
-        label: Title
-        value: 
-    - name: permalink
-      field:
-        element: text
-        label: Permalink
-        value: 

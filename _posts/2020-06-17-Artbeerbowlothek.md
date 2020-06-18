@@ -3,7 +3,7 @@ title: 'Artbeerbowlothek: Jetzt mitmachen!'
 date: 2020-06-17 18:43:23 +02:00
 ---
 
-![Mitmachen? Schickt uns eure Texte!](/fotos/mitmachen.jpg)
+![Mitmachen? Schickt uns eure Texte!](/uploads/mitmachen.jpg)
 
 Wir bleiben optimistisch. Und zur Not digital.
 
