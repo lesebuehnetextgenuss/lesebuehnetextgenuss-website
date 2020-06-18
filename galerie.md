@@ -2,6 +2,7 @@
 title: Galerie
 layout: gallery
 ---
+
 {::options parse_block_html="true" /}
 <div class="gallery glightbox">
 {% for post in site.galerie %}   

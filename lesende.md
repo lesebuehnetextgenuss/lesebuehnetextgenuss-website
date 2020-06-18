@@ -1,5 +1,5 @@
 ---
-title: Lesende 
+title: Lesende
 ---
 
 {::options parse_block_html="true" /}
