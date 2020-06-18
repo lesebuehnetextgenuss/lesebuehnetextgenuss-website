@@ -3,7 +3,7 @@ title: Kontakt und Einsendungen
 permalink: kontakt.html
 ---
 
-[](fotos/gilajan.jpg)
+[](/uploads/gilajan.jpg)
 Ihr wollt uns etwas sagen?
 
 Ihr wollt mitmachen?
