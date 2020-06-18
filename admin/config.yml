@@ -1,8 +1,6 @@
 backend:
-  name: github
-  repo:  merlinschumacher/lesebuehnetextgenuss.github.io 
+  name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-  site_domain: elated-wescoff-b3dad1
 media_folder: "fotos"
 public_folder: /fotos
 collections:
