@@ -68,9 +68,8 @@ responsive_image:
   #   %{width}       Width of the resized image
   #   %{height}      Height of the resized image
   #
-#  output_path_format: assets/resized/%{width}/%{basename}# [Optional, Default: true]
+  #output_path_format: assets/resized/%{width}/%{basename}# [Optional, Default: true]
   # Whether or not to save the generated assets into the source folder.
-  save_to_source: true # [Optional, Default: false]
   # Cache the result of {% responsive_image %} and {% responsive_image_block %}
   # tags. See the "Caching" section of the README for more information.
   cache: true # [Optional, Default: []]
