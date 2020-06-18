@@ -1,5 +1,5 @@
 ---
-title: "Lesebühne \nText Genuß & \nSchnaps + Vorträge\n"
+title: Lesebühne Text Genuß & Schnaps + Vorträge
 timezone: Europe/Berlin
 collections:
   galerie:
@@ -62,7 +62,7 @@ prose:
       field:
         element: text
         label: Title
-        value: ''
+        value: 
     _pages:
     - name: layout
       field:
@@ -72,9 +72,9 @@ prose:
       field:
         element: text
         label: Title
-        value: ''
+        value: 
     - name: permalink
       field:
         element: text
         label: Permalink
-        value: ''
+        value: 
