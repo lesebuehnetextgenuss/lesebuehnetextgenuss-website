@@ -14,15 +14,21 @@
 <aside>{{site.description}}</aside>
 
 <nav>
-    <a href="/">Aktuelles</a>
-    <a href="/galerie.html">Galerie</a>
-    <a href="/lesende.html">Lesende</a>
-    <a href="/ueber-uns.html">Über uns</a>
-    <a href="/kontakt.html">Kontakt</a>
+    <input type="checkbox" />
+    <span></span>
+    <span></span>
+    <span></span>
+    <div id="menugroup">
+        <a href="/">Aktuelles</a>
+        <a href="/galerie.html">Galerie</a>
+        <a href="/lesende.html">Lesende</a>
+        <a href="/ueber-uns.html">Über uns</a>
+        <a href="/kontakt.html">Kontakt</a>
+    </div>
 </nav>
 
-<a href="{{site.announcement_link}}">
-    <div id="announcement">{{site.announcement | newline_to_br }}</div>
+<a href="{{site.announcement_link}}" id="announcement">
+    <div>{{site.announcement | newline_to_br }}</div>
 </a>
 
 <div id="socialbox">
