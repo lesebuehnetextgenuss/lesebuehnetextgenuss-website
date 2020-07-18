@@ -11,6 +11,7 @@ collections:
   posts:
     title: Posts
     output: true
+    permalink: /:collection/:name:output_ext
   uploads:
     title: Uploads
     output: true
