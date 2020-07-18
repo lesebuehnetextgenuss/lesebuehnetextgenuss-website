@@ -27,7 +27,7 @@ instagram: https://www.instagram.com/lesebuehnetextgenuss/
 announcement: |
   Nächste Lesung am:
   27.6.20 um 10:30
-announcement_link: posts/Artbeerbowlothek.html
+announcement_link: "/2020/06/17/Artbeerbowlothek.html"
 sass:
   sass_dir: _sass
   style: compressed
