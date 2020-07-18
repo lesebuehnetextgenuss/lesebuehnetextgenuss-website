@@ -20,7 +20,9 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 Angaben gemäß § 5 TMG:
 
 Jan Fischer
+
 Wilhelm-Bluhm-Straße 23
+
 30451 Hannover
 
 ## Kontakt:
@@ -30,5 +32,7 @@ E-Mail:  {{ site.email }}
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Jan Fischer
+
 Wilhelm-Bluhm-Straße 23
+
 30451 Hannover

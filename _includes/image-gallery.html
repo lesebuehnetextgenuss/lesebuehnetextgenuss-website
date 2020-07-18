@@ -3,7 +3,7 @@
     <div class="imagelist">
         {% for image in site.static_files %}
         {% if image.path contains include.gallery %}
-        <a href="{{image.path}}" class="glightbox">[]({{image.path}})" %}</a>
+        <a href="{{image.path}}">[]({{image.path}})" %}</a>
         {% endif %}
         {% endfor %}
     </div>

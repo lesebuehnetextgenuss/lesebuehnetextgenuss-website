@@ -37,11 +37,16 @@ responsive_image:
   template: _includes/responsive_image.html
   default_quality: 80
   sizes:
+  - width: 160
+    quality: 60
+  - width: 360
+    quality: 70
   - width: 480
-    quality: 80
+    quality: 70
+  - width: 600
   - width: 800
+  - width: 1100
   - width: 1400
-    quality: 90
   strip: true
   cache: true
   extra_images:

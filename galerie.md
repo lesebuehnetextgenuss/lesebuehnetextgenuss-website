@@ -4,7 +4,7 @@ layout: gallery
 ---
 
 {::options parse_block_html="true" /}
-<div class="gallery glightbox">
+<div class="gallery lightbox">
 {% for post in site.galerie %}   
 ## <a href="{{ post.url }}">  {{ post.title }} </a>
 {{ post.content }}
