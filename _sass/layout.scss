@@ -314,17 +314,19 @@ p {
             clear: both;
         }
 
-        img {
-            max-width: 40%;
-            border: none;
-            padding: 0;
-            float: left;
-            margin: 0 1em 0 0;
-        }
+        @media only screen and (min-width: 800px) {
+            img {
+                max-width: 40%;
+                border: none;
+                padding: 0;
+                float: left;
+                margin: 0 1em 0 0;
+            }
 
-        p:nth-of-type(even)>img {
-            float: right;
-            margin: 0 0 0 1em;
+            p:nth-of-type(even)>img {
+                float: right;
+                margin: 0 0 0 1em;
+            }
         }
     }
 
