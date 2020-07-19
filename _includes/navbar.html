@@ -1,5 +1,6 @@
 <a href="/">
-    <img alt="{{site.title}}" src="{{site.baseurl}}/uploads/logo.jpg" />
+    <img alt="{{site.title}}" src="{{site.baseurl}}/uploads/logo.jpg"
+        srcset="{{site.baseurl}}/uploads/logo_50.jpg 50w, {{site.baseurl}}/uploads/logo_120.jpg 120w, {{site.baseurl}}/uploads/logo.jpg 400w" />
     {% if page.title %}
     <h2>
         {{ site.title | newline_to_br }}
