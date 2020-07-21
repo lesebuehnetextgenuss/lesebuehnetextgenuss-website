@@ -38,6 +38,4 @@ Field name:
 
 ![44065141_328855037668264_4608079779202072576_o.jpg](/uploads/44065141_328855037668264_4608079779202072576_o.jpg)
 
-Ort: [Dia - Raum für Automedialität](https://www.diahannover.de/)
-
-Fotos: Daniel Appel
+[Dia - Raum für Automedialität, ](https://www.diahannover.de/)Fotos: Daniel Appel
