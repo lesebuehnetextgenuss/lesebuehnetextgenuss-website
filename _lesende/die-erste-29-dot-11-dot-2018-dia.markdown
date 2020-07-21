@@ -1,6 +1,10 @@
 ---
 title: Die Erste (29.11.2018, Día)
 date: 2020-07-21 19:42:00 +02:00
+tags:
+- Die Erste
+- Lesende
+- Dia
 ---
 
 ![44136684_328855031001598_6870200029932421120_o.jpg](/uploads/44136684_328855031001598_6870200029932421120_o.jpg)**Stefanie Schweizer**, 1990 in Biberach geboren, studierte am Literaturinstitut Hildesheim. Ihre Texte erschienen in Anthologien, Zeitschriften und online (Etcetera, Nerv, Mosaik, fixpoetry). 2013 erhielt sie das Otto-Rombach-Stipendium der Stadt Heilbronn. 2018 wurde sie mit dem dritten Platz des Förderpreises der Literaturvilla Herrenhof ausgezeichnet. Zuletzt war sie Teilnehmerin der Metamorphosen/Nocthene-Schreibwerkstatt. Auf Instagram ([@muedebinich](https://www.instagram.com/muedebinich/)) widmet sie sich der kurzen Erzählform.
