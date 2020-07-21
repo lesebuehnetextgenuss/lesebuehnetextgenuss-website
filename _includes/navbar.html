@@ -27,7 +27,8 @@
         <a href="/kontakt.html">Kontakt</a>
     </div>
 </nav>
-<a href={% if site.announcement_link != "" %}"{{site.announcement_link}}"{% else %}"#"{% endif %} id="announcement">
+<a href={% if site.announcement_link|strip != "" %}"{{site.announcement_link}}"{% else %}"javascript:;"{% endif %}
+    id="announcement">
 
     {% if site.announcement != "" %}
     <div>{{site.announcement | newline_to_br }}</div>
