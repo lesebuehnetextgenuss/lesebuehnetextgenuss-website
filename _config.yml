@@ -15,15 +15,15 @@ collections:
     title: Uploads
     output: true
 defaults:
-  - scope:
-      path: ""
-      type: "galerie"
-    values:
-      layout: "gallery"
-  - scope:
-      path: ''
-    values:
-      layout: default
+- scope:
+    path: ''
+    type: galerie
+  values:
+    layout: gallery
+- scope:
+    path: ''
+  values:
+    layout: default
 description: Die Lesebühne Text Genuß & Schnaps+Vorträge ist eine unregelmäßig und
   an wechselnden Orten stattfindende Lesebühne in Hannover. Wir sind Mitglied im Netzwerk
   Unabhängige Lesereihen.
