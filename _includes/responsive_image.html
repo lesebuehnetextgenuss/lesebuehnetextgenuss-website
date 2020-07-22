@@ -3,4 +3,7 @@
 /{{ i.path }} {{ i.width }}w,
 {% endfor %}
 {% endcapture %}
-<img src="/{{ path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }}">
+{% capture sizes %}
+(min-width: 1350) 820px, (min-width: 800) 650px, (min-width: 680) 820px. (min-width: 500) 650px, (max-width:499) 470px, 650px
+{% endcapture %}
+<img src="/{{ path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }}" sizes="{{ sizes | strip_newlines }}">

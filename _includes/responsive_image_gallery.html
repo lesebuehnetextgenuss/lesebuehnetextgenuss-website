@@ -1,0 +1,9 @@
+{% capture srcset %}
+{% for i in resized %}
+/{{ i.path }} {{ i.width }}w,
+{% endfor %}
+{% endcapture %}
+{% capture sizes %}
+(min-width: 1180) 375px, (min-width: 800) 250px, (min-width: 680) 820px, (min-width: 400) 650px, (max-width: 399) 375px, 250px
+{% endcapture %}
+<img src="/{{ path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }}" sizes="{{ sizes | strip_newlines }}" loading="lazy">

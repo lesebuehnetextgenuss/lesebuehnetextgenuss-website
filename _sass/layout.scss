@@ -1,3 +1,6 @@
+$desktop-break: 1130px;
+$mobile-break: 800px;
+
 html {
     font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1rem;
@@ -37,7 +40,7 @@ body {
         "main"
         "footer";
 
-    @media only screen and (min-width: 800px) {
+    @media (min-width: $mobile-break) {
         width: 90%;
         grid-template-columns: 30% auto;
         grid-template-areas:
@@ -46,7 +49,7 @@ body {
             "footer footer";
     }
 
-    @media only screen and (min-width: 1200px) {
+    @media (min-width: $desktop-break) {
         width: 75%;
     }
 }
@@ -67,7 +70,7 @@ p {
     display: flex;
     flex-direction: column;
 
-    @media only screen and (min-width: 800px) {
+    @media (min-width: $mobile-break) {
         display: block;
         margin-right: 1.5em;
         padding-right: 1.5em;
@@ -84,7 +87,7 @@ p {
         float: left;
         margin: 0 1em .5em 0;
 
-        @media only screen and (min-width: 800px) {
+        @media (min-width: $mobile-break) {
             max-height: unset;
             float: none;
             margin: unset;
@@ -97,7 +100,7 @@ p {
         order: 3;
         margin-bottom: 1rem;
 
-        @media only screen and (min-width: 800px) {
+        @media (min-width: $mobile-break) {
 
 
             margin-bottom: 2rem;
@@ -112,7 +115,7 @@ p {
         border-bottom: 1px solid #ccc;
         width: 100%;
 
-        @media only screen and (min-width: 800px) {
+        @media (min-width: $mobile-break) {
             border-bottom: 0;
             border-top: 1px solid #ccc;
             padding: 1em 4em 0 4em;
@@ -134,7 +137,7 @@ p {
         right: .5em;
         top: .5em;
 
-        @media only screen and (min-width: 800px) {
+        @media (min-width: $mobile-break) {
             order: 4;
             position: unset;
             right: unset;
@@ -153,7 +156,7 @@ p {
             display: inline-block;
             z-index: 10;
 
-            @media only screen and (min-width: 800px) {
+            @media (min-width: $mobile-break) {
                 font-size: 1.75em;
                 display: block;
                 transform: rotate(-4deg);
@@ -190,7 +193,7 @@ p {
             z-index: 2;
             -webkit-touch-callout: none;
 
-            @media only screen and (min-width: 800px) {
+            @media (min-width: $mobile-break) {
                 display: none;
             }
         }
@@ -209,7 +212,7 @@ p {
                 background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0),
                 opacity 0.55s ease;
 
-            @media only screen and (min-width: 800px) {
+            @media (min-width: $mobile-break) {
                 display: none;
             }
         }
@@ -247,7 +250,7 @@ p {
             margin-top: 1em;
             z-index: 1;
 
-            @media only screen and (min-width: 800px) {
+            @media (min-width: $mobile-break) {
                 max-height: 500px;
                 position: unset;
                 width: unset;
@@ -288,7 +291,7 @@ p {
             margin-top: .75em;
             margin-bottom: .75em;
 
-            @media only screen and (min-width: 800px) {
+            @media (min-width: $mobile-break) {
                 margin-top: 1.25em;
             }
         }
@@ -302,7 +305,7 @@ p {
         max-width: 100%;
         margin-bottom: 1em;
 
-        @media only screen and (min-width: 800px) {
+        @media (min-width: $mobile-break) {
             max-width: calc(100% - 2em);
         }
     }
@@ -314,7 +317,7 @@ p {
             clear: both;
         }
 
-        @media only screen and (min-width: 800px) {
+        @media (min-width: $mobile-break) {
             img {
                 max-width: 40%;
                 border: none;
@@ -345,7 +348,7 @@ p {
             width: calc(100%);
             margin: 0 0em 1em 0;
 
-            @media only screen and (min-width: 800px) {
+            @media (min-width: $mobile-break) {
                 width: calc(50% - 1em);
                 margin: 0 1em 1em 0;
             }
