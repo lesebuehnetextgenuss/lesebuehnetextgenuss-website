@@ -10,3 +10,11 @@ layout: gallery
 {{ post.content }}
 {% endfor %}
 </div>
+
+<script type="text/javascript">
+    window.onload = function () {
+        new SimpleLightbox({
+            elements: '.lightbox p a'
+        });
+    }
+</script>

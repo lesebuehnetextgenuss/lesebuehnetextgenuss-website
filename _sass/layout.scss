@@ -289,7 +289,7 @@ p {
     @for $index from 1 through 6 {
         h#{$index} {
             margin-top: .75em;
-            margin-bottom: .75em;
+            margin-bottom: 1em;
 
             @media (min-width: $mobile-break) {
                 margin-top: 1.25em;
@@ -298,6 +298,10 @@ p {
 
         h#{$index}+p {
             margin-top: 0em;
+        }
+
+        p+h#{$index} {
+            margin-top: 2em;
         }
     }
 
@@ -310,23 +314,25 @@ p {
         }
     }
 
-    .lesende {
+    #lesende {
         p:after {
             content: "";
             display: table;
             clear: both;
         }
 
+        img {
+            width: 100%;
+        }
+
         @media (min-width: $mobile-break) {
             img {
                 max-width: 40%;
-                border: none;
-                padding: 0;
                 float: left;
                 margin: 0 1em 0 0;
             }
 
-            p:nth-of-type(even)>img {
+            img.float-right {
                 float: right;
                 margin: 0 0 0 1em;
             }
