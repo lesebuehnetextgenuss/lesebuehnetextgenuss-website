@@ -1,6 +1,5 @@
 ---
 title: Galerie
-layout: gallery
 ---
 
 {::options parse_block_html="true" /}
