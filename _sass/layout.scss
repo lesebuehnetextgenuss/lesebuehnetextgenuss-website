@@ -314,20 +314,14 @@ p {
         }
     }
 
+    iframe {
+        padding: 1em 0;
+    }
+
     #lesende {
-        p:after {
-            content: "";
-            display: table;
-            clear: both;
-        }
-
-        img {
-            width: 100%;
-        }
-
         @media (min-width: $mobile-break) {
             img {
-                max-width: 40%;
+                width: 40%;
                 float: left;
                 margin: 0 1em 0 0;
             }
@@ -337,6 +331,19 @@ p {
                 margin: 0 0 0 1em;
             }
         }
+
+        p:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        @media (max-width: $mobile-break - 1) {
+            img {
+                width: 100%;
+            }
+        }
+
     }
 
     .gallery {
