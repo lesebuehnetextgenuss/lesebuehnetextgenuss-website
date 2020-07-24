@@ -22,3 +22,7 @@ Instagram: [@seleneschreibt](https://www.instagram.com/seleneschreibt/)
 Instagram: [@kleine_stadt_am_meer](https://www.instagram.com/kleine_stadt_am_meer)
 
 ![73316595_510289292858170_2111217390829174784_o.jpg](/uploads/73316595_510289292858170_2111217390829174784_o.jpg)**Lucas-Emanuel Strehle, g**eboren 1994 in Filderstadt. Studiert derzeit Kreatives Schreiben und Kulturjournalismus in Hildesheim und organisiert die Lesebühne **[Irgendwie 248 Sachen](https://www.facebook.com/irgendwie248sachen/)** für Hildesheimer Schreibende.
+
+![75046160_510287812858318_8719920690586714112_o.jpg](/uploads/75046160_510287812858318_8719920690586714112_o.jpg)
+
+In dieser Ausgabe zum zweiten Mal dabei: **Vorband**, das Indierock-Soloprojekt des Schriftstellers und Musikers **[Martin Spieß](https://www.facebook.com/martinspiessofficial/?__cft__\[0\]=AZXfmUebaHOIjMML-FVo-GJPPkH0eMfceyT3wfclzLAbB-rRQtkOrn9tR5LMbXqP8Ctu3RK7baqT5H31jIoOB-DywEPpEUQfFI_J666WpqwTJFJGiyjDHUTYSHdIDwda1wCs__Z6kw_oGfOUoFvMsxOJ&__tn__=kK-R)**. "Melodie & Rhythmus" schrieb über seine Musik: "Da sagt noch mal einer, deutsche Musik wäre langweilig und unausgegoren. Vorband ist weit davon entfernt." Martin Spieß spielte unter anderem Songs seines noch unveröffentlichten vierten Albums, das 2020 erscheinen wird.
