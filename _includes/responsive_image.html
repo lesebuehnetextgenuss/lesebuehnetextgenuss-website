@@ -4,6 +4,6 @@
 {% endfor %}
 {% endcapture %}
 {% capture sizes %}
-(min-width: 1350px) 820px, (min-width: 800px) 650px, (min-width: 680px) 820px. (min-width: 500px) 650px, (max-width: 499px) 470px, 375px
+(min-width: 1350px) 820px, (min-width: 800px) 650px, (min-width: 680px) 820px, (min-width: 500px) 650px, (max-width: 499px) 470px, 375px
 {% endcapture %}
 <img src="/{{ path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }}" sizes="{{ sizes | strip_newlines }}">
