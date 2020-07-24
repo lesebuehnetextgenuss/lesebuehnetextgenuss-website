@@ -20,6 +20,6 @@ Instagram: [@seleneschreibt](https://www.instagram.com/seleneschreibt/)
 
 {% soundcloud https://soundcloud.com/jan-fischer-238479972/lese-hne-text-genuss_2606 %}
 
-![106343431_677627982790966_5806816138714249404_o.jpg](/uploads/106343431_677627982790966_5806816138714249404_o.jpg)**Alexander Rudolfi**, geboren 1987 in Freyung. Ist im Drei-Länder-Eck Deutschland, Österreich, Tschechien aufgewachsen und hat Sozialpädagogik, Literarisches Schreiben und Philosophie in München, Hildesheim und Sassari studiert. 2019 erhielt er das Arbeitsstipendium des Ministeriums für Wissenschaft und Kultur Niedersachsen, war Stipendiat der Künstlerhäuser Worpswede und Preisträger der Hannoverschen Autor\*innenkonferenz (KURT 2019). Er lebt und arbeitet in Hannover.
+![106279364_677628652790899_2043170271240104295_o.jpg](/uploads/106279364_677628652790899_2043170271240104295_o.jpg)**Alexander Rudolfi**, geboren 1987 in Freyung. Ist im Drei-Länder-Eck Deutschland, Österreich, Tschechien aufgewachsen und hat Sozialpädagogik, Literarisches Schreiben und Philosophie in München, Hildesheim und Sassari studiert. 2019 erhielt er das Arbeitsstipendium des Ministeriums für Wissenschaft und Kultur Niedersachsen, war Stipendiat der Künstlerhäuser Worpswede und Preisträger der Hannoverschen Autor\*innenkonferenz (KURT 2019). Er lebt und arbeitet in Hannover.
 
 {% soundcloud https://soundcloud.com/jan-fischer-238479972/lese-hne-text-genuss_2606-1 %}
