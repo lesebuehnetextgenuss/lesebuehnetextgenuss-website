@@ -38,6 +38,7 @@ body {
         "header"
         "sidebar"
         "main"
+        "icons"
         "footer";
 
     @media (min-width: $mobile-break) {
@@ -46,7 +47,7 @@ body {
         grid-template-areas:
             "header header"
             "sidebar main"
-            "footer footer";
+            "icons footer";
     }
 
     @media (min-width: $desktop-break) {
@@ -109,42 +110,6 @@ p {
         }
     }
 
-    .socialbox {
-        display: none;
-        order: 5;
-        justify-content: space-evenly;
-        padding: 0em 4em 1em 4em;
-        border-bottom: 1px solid #ccc;
-        width: 100%;
-
-        @media (min-width: $mobile-break) {
-            border-bottom: 0;
-            border-top: 1px solid #ccc;
-            padding: 1em 1em 0 1em;
-        }
-
-        [class^="icon-"] {
-            font-size: 2.5rem;
-        }
-
-        a {
-            text-decoration: none;
-        }
-
-        &.navbar {
-            @media (min-width: $mobile-break) {
-                display: flex;
-            }
-        }
-
-        &.menu {
-            display: flex;
-
-            @media (min-width: $mobile-break) {
-                display: none;
-            }
-        }
-    }
 
 
     #announcement {
@@ -299,6 +264,38 @@ p {
 
 }
 
+#icons {
+    grid-area: icons;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1em 0em 1em 0em;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    margin-top: 1.5em;
+    width: 100%;
+
+
+    [class^="icon-"] {
+        font-size: 2.5rem;
+    }
+
+    a {
+        text-decoration: none;
+
+        img {
+            width: 4em;
+            height: auto;
+        }
+    }
+
+    @media (min-width: $mobile-break) {
+        border: none;
+        margin-right: 1.5em;
+        padding-right: 1.5em;
+    }
+
+}
+
 #main {
     grid-area: main;
 
@@ -323,6 +320,7 @@ p {
 
     img {
         max-width: 100%;
+        width: 100%;
         margin-bottom: 1em;
 
         @media (min-width: $mobile-break) {
