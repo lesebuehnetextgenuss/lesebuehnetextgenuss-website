@@ -269,11 +269,10 @@ p {
     display: flex;
     justify-content: space-evenly;
     padding: 1em 0em 1em 0em;
-    border-bottom: 1px solid #ccc;
     border-top: 1px solid #ccc;
     margin-top: 1.5em;
     width: 100%;
-
+    flex-wrap: wrap;
 
     [class^="icon-"] {
         font-size: 2.5rem;
@@ -283,8 +282,19 @@ p {
         text-decoration: none;
 
         img {
-            width: 4em;
+            width: 7em;
             height: auto;
+            margin: 0 auto;
+        }
+
+        &:last-of-type {
+
+            width: 100%;
+            height: 4em;
+            margin-top: 2em;
+            display: block;
+
+            @media (min-width: $mobile-break) {}
         }
     }
 
@@ -292,7 +302,10 @@ p {
         border: none;
         margin-right: 1.5em;
         padding-right: 1.5em;
+        flex-wrap: wrap;
+
     }
+
 
 }
 
