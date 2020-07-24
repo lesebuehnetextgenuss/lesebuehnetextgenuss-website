@@ -53,6 +53,16 @@ body {
     @media (min-width: $desktop-break) {
         width: 75%;
     }
+
+    >#icons {
+
+        display: flex;
+
+        @media (min-width: $mobile-break) {
+            display: none;
+        }
+
+    }
 }
 
 
@@ -262,11 +272,20 @@ p {
         }
     }
 
+    #icons {
+        justify-content: space-between;
+
+        @media (min-width: $mobile-break) {
+            border: none;
+            display: flex;
+        }
+
+    }
 }
 
 #icons {
     grid-area: icons;
-    display: flex;
+    display: none;
     justify-content: space-evenly;
     padding: 1em 0em 1em 0em;
     border-top: 1px solid #ccc;
@@ -294,16 +313,11 @@ p {
             margin-top: 2em;
             display: block;
 
-            @media (min-width: $mobile-break) {}
         }
     }
 
     @media (min-width: $mobile-break) {
-        border: none;
-        margin-right: 1.5em;
-        padding-right: 1.5em;
-        flex-wrap: wrap;
-
+        display: none;
     }
 
 
@@ -374,9 +388,6 @@ p {
     }
 
     .gallery {
-        margin-bottom: 1em;
-        border-bottom: 1px solid #cccccc;
-
         display: flex;
         flex-wrap: wrap;
 
