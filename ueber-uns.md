@@ -13,4 +13,8 @@ In unregelmäßigen Abständen veröffentlichen wir [Aufrufe und unsere neuesten
 
 In unregelmäßigen Abständen präsentiert **Lesebühne Text Genuß & Schnaps \+ Vorträge** dann exzellente Texte, fantastische Vorträge und alles, was uns sonst noch gefällt. Immer mit dabei: Eine schöne Rutsche Schnaps für alle. Literatur jenseits der Duldungsstarre, Vorträge jenseits muffiger Vorlesungen, Räusche auf unerforschtem Gebiet.
 
+Die Lesebühne Text Genuß & Schnaps \+ Vorträge ist seit Dezember 2019 Mitglied des **Unabhängigen Lesereihen
+ e.V.** Der Verein steht für Literatur als soziale Praxis, die Räume für Austausch schafft: Mensch und
+ Gegenwartsliteratur sollen sich auf Augenhöhe begegnen können.
+
 Wenn ihr einmal dabei sein wollt: [Schickt uns einfach eine Mail.](/kontakt.html)
