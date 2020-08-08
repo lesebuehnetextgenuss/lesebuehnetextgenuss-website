@@ -1,6 +1,6 @@
 ---
 title: artbeerbowlothek (27.6.2020, artothek)
-date: 2020-07-21 21:03:00 +02:00
+date: 2020-06-27 21:03:00 +02:00
 tags:
 - artbeerbowlothek
 - artothek
