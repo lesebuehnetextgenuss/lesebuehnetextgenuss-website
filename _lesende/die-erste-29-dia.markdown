@@ -1,6 +1,6 @@
 ---
 title: Die Erste (29.11.2018, Día)
-date: 2020-07-21 19:42:00 +02:00
+date: 2018-11-29 12:00:00 +01:00
 tags:
 - Die Erste
 - Lesende
