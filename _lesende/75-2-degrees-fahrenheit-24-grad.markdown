@@ -1,6 +1,6 @@
 ---
 title: 75,2° Fahrenheit (24.10.2019, 24 grad)
-date: 2020-07-21 20:40:00 +02:00
+date: 2019-10-24 20:40:00 +02:00
 tags:
 - 24 grad
 - fahrenheit
