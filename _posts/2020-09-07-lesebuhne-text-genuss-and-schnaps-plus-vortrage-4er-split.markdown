@@ -3,7 +3,7 @@ title: 'Lesebühne Text Genuß & Schnaps + Vorträge: 4er-Split'
 date: 2020-09-07 10:21:00 +02:00
 ---
 
-![lesebühnebowling-Seite001_02.jpeg](/uploads/leseb%C3%BChnebowling-Seite001_02.jpeg)
+![lesebuehnebowling-Seite001_02.jpeg](/uploads/lesebuehnebowling-Seite001_02.jpeg)
 
 Es ist wieder soweit. Wir wagen uns hinaus, und vor allem wagen wir uns wieder hinein. Und zwar: In die Innenräume der Stadt. Unsere nächste Lesebühne findet am **8. Oktober** statt, und zwar in der **Orange Club Lounge** der[ ](https://hannover.bowlingworld.de/)**[Bowling World Hannover](https://hannover.bowlingworld.de/)**.
 
