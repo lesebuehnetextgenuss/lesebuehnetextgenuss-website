@@ -1,5 +1,5 @@
 ---
-title: 4er-Spe
+title: 4er-Split (8.10.2020, Bowling World Hannover)
 date: 2020-10-10 11:32:00 +02:00
 ---
 
