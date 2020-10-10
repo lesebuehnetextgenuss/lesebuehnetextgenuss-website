@@ -8,9 +8,7 @@ position: 0
 
 {% soundcloud https://soundcloud.com/jan-fischer-238479972/helge-hommers-ich-eine %}
 
-![DSC04680.jpg](/uploads/DSC04680.jpg)**Laura M. Neunast** arbeitete als Buchhändlerin, bevor sie den Kleinstadtsumpf verließ, um in Hannover Deutsch und Religionswissenschaft zu studieren. Wenn sie sich nicht gerade längeren Geschichten und Projekten widmet, schreibt sie nebenbei auf Twitter und Instagram Texte über Depression, Feminismus und Alltagsquatsch. 
-
-Ihr könnt auch bei ihr vorbeischauen: 
+![DSC04680.jpg](/uploads/DSC04680.jpg)**Laura M. Neunast** arbeitete als Buchhändlerin, bevor sie den Kleinstadtsumpf verließ, um in Hannover Deutsch und Religionswissenschaft zu studieren. Wenn sie sich nicht gerade längeren Geschichten und Projekten widmet, schreibt sie nebenbei auf Twitter und Instagram Texte über Depression, Feminismus und Alltagsquatsch. Ihr könnt auch bei ihr vorbeischauen: 
 
 [Instagram](https://www.instagram.com/komodowaranin)
 
