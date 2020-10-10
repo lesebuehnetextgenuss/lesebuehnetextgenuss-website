@@ -4,7 +4,7 @@ date: 2019-05-23 20:32:00 +02:00
 tags:
 - Probieratur
 - Probierbar
-position: 1
+position: 3
 ---
 
 ![61041610_423660404854393_2915129981812080640_o.jpg](/uploads/61041610_423660404854393_2915129981812080640_o.jpg)**Nicole Balschun**, Studium der Germanistik & Förderschullehrerin. Wohnhaft in Wunstorf mit Mann, 4 Kindern, Hund und 13 Hasen. Schriftstellerei ist notwendiges Übel, Rausch, Liebe und Wahnsinn zugleich. Publikation: [Ada liebt](http://www.dumont-buchverlag.de/buch/balschun-ada-liebt-9783832185527/), Roman, Dumont-Verlag. Derzeit ist ein neues Manuskript in Arbeit.

@@ -4,7 +4,7 @@ date: 2019-10-24 20:40:00 +02:00
 tags:
 - 24 grad
 - fahrenheit
-position: 0
+position: 2
 ---
 
 ![74677003_510288486191584_7318380898062172160_o.jpg](/uploads/74677003_510288486191584_7318380898062172160_o.jpg)**[Trick](https://trickelektrolyrics.wordpress.com/)** macht Text mit Beat, vermischt Wort mit Elektro und trinkt Sekt mit Schirmchen. Kürzestgeschichten wabern auf sphärischen Sounds und klickernden Beats, (Un-)Lyrischeswird zum gesprochenen Song. Von Verwirrten, Manipulation und Rebellion, von Seifenopern, Hasen und der Liebe. Trick sind zwei. Katja Merx sorgt für das Wort, Stef Awramoff für den Ton mit Electribe, Kaossilator und Keyboard. Beide leben in Hannover- Linden und machen – wenn sie nicht gerade tricksen – Ukipop mit ihrer Band [beatbar](http://www.beatbar-band.de/).
