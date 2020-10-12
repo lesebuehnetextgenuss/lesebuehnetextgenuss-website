@@ -3,7 +3,7 @@ title: 4er-Split (8.10.2020, Bowling World Hannover)
 date: 2020-10-10 11:32:00 +02:00
 position: 0
 ---
- 
+
 ![DSC04662-632960.jpg](/uploads/DSC04662-632960.jpg)**Helge Hommers** las bei uns seinen Text „Ich - eine Metamorphose“ aus dem [GYM-Mag](http://gym-magazin.de/). Über Helge: Wenige Monate bevor ein US-amerikanischer Rettungsschwimmer die Berliner Mauer in Grund und Boden sang, erblickte Helge Hommers in der ostfriesischen Einöde das Licht der Welt. Nach dem mehr schlechten als rechten Abitur verschlug es ihn nach Bremen, wo er Linguistik und Transnationale Literaturwissenschaften studierte. Im Anschluss durchlief er ein Volontariat bei der Tageszeitung „Weser-Kurier“. Inzwischen arbeitet als Sportredakteur in der Onlineredaktion von „Radio Bremen“, was ihm sowohl ausreichend Zeit als auch Brötchen beschert, um eigenen Autorenprojekten nachzugehen. Aktuell schreibt er an seinem ersten Roman „Die Hauptsache ist, dass du am Ende gut zu liegen kommst oder Die Boomgardens“, für den er unter anderem das Bremer Autorenstipendium 2018 erhielt.
 
 {% soundcloud https://soundcloud.com/jan-fischer-238479972/helge-hommers-ich-eine %}
