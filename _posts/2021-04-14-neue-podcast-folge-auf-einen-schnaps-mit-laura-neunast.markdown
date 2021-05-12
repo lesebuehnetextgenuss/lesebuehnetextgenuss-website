@@ -1,6 +1,8 @@
 ---
 title: 'Neue Podcast-Folge: Auf einen Schnaps mit Laura Neunast'
 date: 2021-04-14 07:57:00 +02:00
+categories:
+- podcast
 Field name: 
 ---
 
