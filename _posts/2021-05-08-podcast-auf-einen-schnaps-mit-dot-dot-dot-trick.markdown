@@ -1,6 +1,8 @@
 ---
 title: 'Podcast: Auf einen Schnaps mit... Trick'
 date: 2021-05-08 10:06:00 +02:00
+categories:
+- podcast
 ---
 
 ![podcast-Seite001_kl.jpeg](/uploads/podcast-Seite001_kl.jpeg)
