@@ -30,3 +30,7 @@
 .icon-instagram:before {
   content: "\e902";
 }
+
+.icon-podcast:before {
+  content: "\e903";
+}
