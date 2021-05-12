@@ -1,6 +1,8 @@
 ---
 title: Jetzt für die Ohren!
 date: 2021-03-14 09:27:00 +01:00
+categories:
+- podcast
 ---
 
 ![Logo_klein.jpg](/uploads/Logo_klein.jpg)
