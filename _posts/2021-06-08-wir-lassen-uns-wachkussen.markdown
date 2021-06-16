@@ -24,5 +24,3 @@ Es lesen:
 Die Autorin und Journalistin **[Anke Laufer](https://ankelaufer.com/)**, die wir gerne schon in unserer Ausgabe im Oktober dabei gehabt hätten - nun klappt es im Dornröschen.
 
 Und **Lisa Raabe**, freiberufliche Texterin und Redakteurin, die zur Zeit ebenfalls in Hildesheim studiert - und zwar Literarisches Schreiben und Lektorieren.
-
-Und 
