@@ -3,7 +3,7 @@ title: Texte gesucht!
 date: 2021-05-06 08:57:00 +02:00
 ---
 
-![436cfe_63520669366542c49a7fa3c2c04c6c02_mv2.jpg](/uploads/436cfe_63520669366542c49a7fa3c2c04c6c02_mv2.jpg)
+![436cfe_63520669366542c49a7fa3c2c04c6c02_mv2-650x299.jpg](/uploads/436cfe_63520669366542c49a7fa3c2c04c6c02_mv2-650x299.jpg)
 
 Es ist wieder soweit. Für unsere **Lesebühne am 17. Juni** suchen wir eure Texte!
 
