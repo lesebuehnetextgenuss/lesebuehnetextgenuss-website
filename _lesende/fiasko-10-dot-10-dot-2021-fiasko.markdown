@@ -3,7 +3,7 @@ title: Fiasko (10.10.2021, Fiasko)
 date: 2021-10-17 17:32:00 +02:00
 ---
 
-![DSC02169.jpg](/uploads/DSC02169.jpg) **Angela Regius** las\*\* \*\*uns etwas über einen Mord in der Reihenhausidylle vor. Sie ist 1991 geboren, lebt in Frankfurt am Main, arbeitet in Darmstadt und studiert in Hildesheim. Sie schreibt, liebt Film und Kino und arbeitet gerne auch mal multimedial. Ihr Ziel ist es, jedes Jahr mindestens hundert Filme zu sehen. Gerade arbeitet sie an ihrem ersten Roman, mit dem sie 2021 sie das Gedok-Stipendium des Landes Schleswig-Holstein erhielt.
+![DSC02169.jpg](/uploads/DSC02169.jpg) **Angela Regius** las uns etwas über einen Mord in der Reihenhausidylle vor. Sie ist 1991 geboren, lebt in Frankfurt am Main, arbeitet in Darmstadt und studiert in Hildesheim. Sie schreibt, liebt Film und Kino und arbeitet gerne auch mal multimedial. Ihr Ziel ist es, jedes Jahr mindestens hundert Filme zu sehen. Gerade arbeitet sie an ihrem ersten Roman, mit dem sie 2021 sie das Gedok-Stipendium des Landes Schleswig-Holstein erhielt.
 
 Ihr könnt ihr bei [Instagram](https://www.instagram.com/antiklimatisch/) und [Letterboxd](https://letterboxd.com/search/antiklimatisch/) folgen.
 
