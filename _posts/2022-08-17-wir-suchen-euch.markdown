@@ -7,7 +7,7 @@ date: 2022-08-17 10:40:00 +02:00
 
 Es ist wieder soweit: **Wir suchen eure Texte!**
 
-Die nächste Ausgabe unserer Lesebühne findet am  **5.11.2022** statt - und ihr könnt dabei sein.
+Die nächste Ausgabe unserer Lesebühne findet am  **6.11.2022** statt - und ihr könnt dabei sein.
 
 Wir hätten eure Texte gerne bis zum **1.10. 2022.** Lyrik, Prosa, Drama, Vortrag - egal. Wir nehmen alles und freuen uns auf einen bunten Abend. Hauptsache, die Vorlesezeit überschreitet 15 Minuten nicht.
 
