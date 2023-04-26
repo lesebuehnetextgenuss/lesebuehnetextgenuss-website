@@ -9,7 +9,7 @@ Es geht wieder los! Und zwar mit vielen, vielen News.
 
 Die erste ist: Wir suchen euch und eure Texte. Für die nächste Ausgabe unserer Lesebühne am **8.6.2023**.
 
-Die findet im **[Quartier-Theater](https://quartier-theater.de/)** in hannovers schöner Nordstadt statt. Das Quartier-Theater möchte uns nun, und wir freuen uns sehr darüber, etwas permanenter beheimaten. Was nicht heißt, dass wir nicht von da aus auch gerne wieder ausschwärmen würden. Aber zunächst freuen wir uns, eine freundliche Heimat gefunden zu haben.
+Die findet im **[Quartier-Theater](https://quartier-theater.de/)** in Hannovers schöner Nordstadt statt. Das Quartier-Theater möchte uns nun, und wir freuen uns sehr darüber, etwas permanenter beheimaten. Was nicht heißt, dass wir nicht von da aus auch gerne wieder ausschwärmen würden. Aber zunächst freuen wir uns, eine freundliche Heimat gefunden zu haben.
 
 Als dritte News ist die Regisseurin und Autorin **[Charlotte Sofia Garraway](https://csgarraway.wixsite.com/csgarraway)** zu uns ins Team gestoßen und wird bei allen Fragen der Organisation und Moderation und sowieso mit dabei sein.
 
@@ -17,4 +17,4 @@ Ihr werdet sie und unser neues Quartier bei der nächsten Ausgabe der Lesebühne
 
 Ihr erreicht uns unter **[lesebuehnehannover@gmail.com](mailto:lesebuehnehannover@gmail.com)**[.](mailto:lesebuehnehannover@gmail.com)
 
-![images.png](/uploads/images.png) Die Veranstaltung wird gefördert vom Kulturbüro Hannover
+<img src="/uploads/images.png" /> Die Veranstaltung wird gefördert vom Kulturbüro Hannover
