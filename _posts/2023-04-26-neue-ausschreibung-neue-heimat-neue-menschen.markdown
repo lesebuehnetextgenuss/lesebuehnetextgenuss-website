@@ -17,5 +17,5 @@ Ihr werdet sie und unser neues Quartier bei der nächsten Ausgabe der Lesebühne
 
 Ihr erreicht uns unter **[lesebuehnehannover@gmail.com](mailto:lesebuehnehannover@gmail.com)**.
 
-<img src="/uploads/images.png" width="200" height="56"/>
+<img src="/uploads/images.png" width="200" height="56" style="width: unset;"/>
 Die Veranstaltung wird gefördert vom Kulturbüro Hannover
