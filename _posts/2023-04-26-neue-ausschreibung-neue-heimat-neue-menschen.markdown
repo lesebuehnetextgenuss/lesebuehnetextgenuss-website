@@ -15,6 +15,7 @@ Als dritte News ist die Regisseurin und Autorin **[Charlotte Sofia Garraway](htt
 
 Ihr werdet sie und unser neues Quartier bei der nächsten Ausgabe der Lesebühne kennenlernen. Für die wir ab jetzt Texte suchen. Die hätten wir gerne bis zum **22.5.2023**. Lyrik, Prosa, Drama, Vortrag - egal. Wir nehmen alles und freuen uns auf einen bunten Abend. Hauptsache, die Vorlesezeit überschreitet 15 Minuten nicht.
 
-Ihr erreicht uns unter **[lesebuehnehannover@gmail.com](mailto:lesebuehnehannover@gmail.com)**[.](mailto:lesebuehnehannover@gmail.com)
+Ihr erreicht uns unter **[lesebuehnehannover@gmail.com](mailto:lesebuehnehannover@gmail.com)**.
 
-<img src="/uploads/images.png" /> Die Veranstaltung wird gefördert vom Kulturbüro Hannover
+<img src="/uploads/images.png" width="200" height="56"/>
+Die Veranstaltung wird gefördert vom Kulturbüro Hannover
