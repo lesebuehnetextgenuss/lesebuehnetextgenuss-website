@@ -4,7 +4,7 @@ date: 2019-02-21 20:24:00 +01:00
 tags:
 - v17
 - Coffeinado
-position: 4
+position: 7
 ---
 
 ![52720907_383981688822265_5180452379769700352_n.jpg](/uploads/52720907_383981688822265_5180452379769700352_n.jpg)**Theresa Sambruno** hängt gerne mit Worten ab, weswegen sie diese auch in Form von Neuerer deutscher Literaturwissenschaft hier in Hannover studiert. Neben ihrer wissenschaftlichen Arbeit schreibt sie Gedichte und Kurzprosa. In ihren Texten widmet sie sich gesellschaftlich unterrepräsentierten Dingen, wie der Maraschinokirsche, und dem Verdrehen von Tatsachen.

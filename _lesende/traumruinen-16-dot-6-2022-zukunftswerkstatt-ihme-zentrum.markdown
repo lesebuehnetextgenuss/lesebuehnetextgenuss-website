@@ -1,6 +1,7 @@
 ---
 title: Traumruinen (16.6.2022, Zukunftswerkstatt Ihme-Zentrum)
 date: 2023-05-11 08:50:00 +02:00
+position: 0
 ---
 
 ![DSC05070.jpg](/uploads/DSC05070.jpg)

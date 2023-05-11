@@ -4,7 +4,7 @@ date: 2020-06-27 21:03:00 +02:00
 tags:
 - artbeerbowlothek
 - artothek
-position: 1
+position: 4
 ---
 
 ![80254503_677626569457774_4569130648036746038_o.jpg](/uploads/80254503_677626569457774_4569130648036746038_o.jpg)Zum zweiten Mal dabei: **Theresa Sambruno**, Jahrgang '95, lebt in Hannover. Sie studiert den M. Ed. in den Fächern Deutsch und Politik und den M. A. Neuere deutsche Literaturwissenschaft. Immer wieder treibt es sie zum Arbeiten und Studieren ins Ausland, längere Studienaufenthalte ergaben sich in Portugal und den USA. Neben ihrer wissenschaftlichen Arbeit schreibt sie Gedichte, die sie hier und da in Literaturzeitschriften veröffentlicht und liest.

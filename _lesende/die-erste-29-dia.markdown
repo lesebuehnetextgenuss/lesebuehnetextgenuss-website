@@ -5,7 +5,7 @@ tags:
 - Die Erste
 - Lesende
 - Dia
-position: 5
+position: 8
 ---
 
 **Stefanie Schweizer**, 1990 in Biberach geboren, studierte am Literaturinstitut Hildesheim. Ihre Texte erschienen in Anthologien, Zeitschriften und online (Etcetera, Nerv, Mosaik, fixpoetry). 2013 erhielt sie das Otto-Rombach-Stipendium der Stadt Heilbronn, 2018 wurde sie mit dem dritten Platz des Förderpreises der Literaturvilla Herrenhof ausgezeichnet. Zuletzt war sie Teilnehmerin der Metamorphosen/Nocthene-Schreibwerkstatt. Auf Instagram ([@muedebinich](https://www.instagram.com/muedebinich/)) widmet sie sich der kurzen Erzählform.

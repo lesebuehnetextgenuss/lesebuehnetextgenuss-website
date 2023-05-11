@@ -1,6 +1,7 @@
 ---
 title: Wachgeküsst (17.6.2021, Biergarten Dornröschen)
 date: 2021-06-30 10:54:00 +02:00
+position: 2
 ---
 
 ![203218765_901157907104638_747806305967217056_n.jpg](/uploads/203218765_901157907104638_747806305967217056_n.jpg)**Moritz Brunken** erzählte uns die herzzerreißende Geschichte des ersten Treffens seiner Eltern.  Er ist bildender Künstler und Theatermacher in der Freien Szene, unter anderem seit 2011 im Kollektiv [Thermoboy FK](https://www.facebook.com/thermoboyfk/?__cft__%5B0%5D=AZWuEkHX498Rac1sUYCG2DXvTqbSEw34nYW-iCD3Gbzpds6Wu2tpUSfNxUUr7KNDIMJSXc8pW8cUOChf9tdu90LPTuUvW1424o0FIumXBjxtnu1n861_TKpdDDypRRFGdqu4nzKfq5iEpMMZS33bCpZY3vAqJ7TOPKsjTCAPc0ns_g&__tn__=kK-R). Er schreibt Texte und liest sie, malt Bilder und stellt sie aus und steht als Performer auf der Bühne. Er studiert seit 2016 Malerei an der HBK Braunschweig.
