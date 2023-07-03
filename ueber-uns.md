@@ -7,9 +7,9 @@ permalink: ueber-uns.html
 
 Die **Lesebühne Text Genuß & Schnaps \+ Vorträge** wurde im **Herbst 2018** von Jan Fischer und Gila Hofmann gegründet, für alle, die jenseits von Poetry Slam und Wasserglaslesungen für etablierte Autor\*innen eine Bühne für Literatur vermissen.
 
-Im Dezember 2020 hat leider Gila unsere Lesebühne verlassen, im Jahr 2023 ihre Nachfolgerin **[Milena Wurmstädt.](https://lesebuehnetextgenuss.de/2020/12/06/wir-stellen-vor-milena-wurmstadt.html)**
+Im Dezember 2020 hat leider Gila unsere Lesebühne verlassen, im Jahr 2023 ihre Nachfolgerin [Milena Wurmstädt](https://lesebuehnetextgenuss.de/2020/12/06/wir-stellen-vor-milena-wurmstadt.html)**[.](https://lesebuehnetextgenuss.de/2020/12/06/wir-stellen-vor-milena-wurmstadt.html)**
 
-Zweite im Bunde ist seit der der Juniausgabe 2023 die Regisseurin und Autorin [Charlotte Sofia Garraway.](https://csgarraway.wixsite.com/csgarraway)
+Zweite im Bunde ist seit der der Juniausgabe 2023 die Regisseurin und Autorin **[Charlotte Sofia Garraway](https://csgarraway.wixsite.com/csgarraway)**[.](https://csgarraway.wixsite.com/csgarraway)
 
 Die **Lesebühne Text Genuß & Schnaps \+ Vorträge** ist dabei offen für alle Menschen, Genres, Formen und Gattungen - und möchte damit explizit nicht nur die klassischen literarischen Gattungen einschließen. **Lyrik und Prosa, Lehre und Powerpoint, Lyrics und Musik**: Wir freuen uns auch über Formate wie Vorträge und über Liedermacher\*innen sowieso.
 
