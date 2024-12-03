@@ -6,7 +6,7 @@ date: 2024-12-03 07:49:00 +01:00
 ![76682372_510286779525088_654775709964697600_o.jpg](/uploads/76682372_510286779525088_654775709964697600_o.jpg)
 Gelesen haben wir in der [Initiative Hüttenstraße](https://www.huettenstrasse.eu/) am gemütlichen Kanonenofen.  Und hier könnt die ganze Veranstaltung noch einmal Nachhören:
 
-{% soundcloud 238479972 playlist %}
+{% soundcloud 1908290327 playlist %}
 
 Zu Gast waren:
 
