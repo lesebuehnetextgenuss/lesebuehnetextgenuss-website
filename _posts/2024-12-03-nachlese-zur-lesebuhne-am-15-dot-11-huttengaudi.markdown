@@ -8,9 +8,7 @@ Gelesen haben wir in der [Initiative Hüttenstraße](https://www.huettenstrasse.
 
 {% soundcloud 1908290327 playlist %}
 
-Zu Gast waren:
-
-\
+Zu Gast waren:\
 **Jasmin Steffen**. Sie ist Jahrgang 1992, ist 2017 aus der Eifel nach Hildesheim gezogen, um Kreatives Schreiben und Kulturjournalismus zu studieren. Seit 2022 studiert sie Literarisches Schreiben und Lektorieren. Einige ihrer Texte sind in Anthologien und (Literatur-)Zeitschriften erschienen. Sie war 2023 Stipendiatin des 26. Klagenfurter Literaturkurs.
 
 **Feline Domina**. Sie ist im Februar 1999 in einer Gewitternacht in Hannover zur Welt gekommen. Sie studiert am Literaturinstitut in Hildesheim. In ihren Texten schreibt Feline über Monster jeglicher Art und (alb)traumhafte Landschaften fremder Welten.
