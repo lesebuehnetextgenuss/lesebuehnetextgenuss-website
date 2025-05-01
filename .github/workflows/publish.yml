@@ -25,7 +25,7 @@ jobs:
         with:
           ruby-version: 2.7 # can change this to 2.7 or whatever version you prefer
       - name: Install Imagemagick
-        run: sudo apt-get install imagemagick
+        run: sudo apt-get install imagemagick libmagickwand-dev
 
       - name: 🔨 install dependencies & build site
         uses: limjh16/jekyll-action-ts@v2
