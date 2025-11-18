@@ -3,7 +3,7 @@ module Jekyll
   class SoundCloud < Liquid::Tag
 
     def initialize(tag_name, markup, tokens)
-      if /(?<url>[a-z0-9\/\-\:\.\_]+)(?:\s+(?<type>.*))?/ =~ markup
+      if /(?<url>[A-Za-z0-9\/\-\:\.\_]+)(?:\s+(?<type>.*))?/ =~ markup
         @url = url
         @type = type 
         @markup = markup
