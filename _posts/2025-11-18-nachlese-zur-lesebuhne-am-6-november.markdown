@@ -5,7 +5,7 @@ date: 2025-11-18 08:36:00 +01:00
 
 ![IMG_7045.jpg](/uploads/IMG_7045.jpg)
 
-Gelesen haben wir in der [Artothek Hannover](https://artothek-hannover.de/).  Und hier könnt die ganze Veranstaltung noch einmal Nachhören:
+Gelesen haben wir in der [artothek Hannover](https://artothek-hannover.de/).  Und hier könnt die ganze Veranstaltung noch einmal Nachhören:
 
 {% soundcloud 253A2110385222 playlist %}
 
