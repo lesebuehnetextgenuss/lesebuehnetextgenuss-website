@@ -9,7 +9,7 @@ Gelesen haben wir in der [Artothek Hannover](https://artothek-hannover.de/).  Un
 
 {% soundcloud 253A2110385222 playlist %}
 
-Es haben gelesen:
+Es haben für uns gelesen:
 
 \*\*Tommy Wiesner. \*\*Er wurde im März 1990 in (Ost-)Berlin geboren und wuchs dort auf. Er arbeitete bei Kaufland, in einem Wohnheim für Menschen mit geistiger Behinderung, beim Jugendamt Neukölln, im Kabelwerk und bei Kaufland. Von 2014 bis 2018 studierte er Schauspiel an der Akademie für Darstellende Kunst Baden- Württemberg. Seit 2022 ist Tommy Wiesner freiberuflich als Schauspieler, Regisseur, Sänger, Performer und Schauspieldozent tätig und lebt in Hannover. Tommy Wiesner liebt Jazz und alten Schlager, Kafka, Borchert, Hilde Domin und Thomas Brasch. In seiner Freizeit beschäftigt er sich wie die meisten anderen Theatermenschen mit dem Theater, ansonsten geht er wandern oder spielt Playstation.
 
