@@ -14,3 +14,5 @@ Genauer gesagt: **am 17. Juni. **
 Und dafür brauchen wir wieder eure Texte. Genre und Gattung sind ganz egal, aber: maximal 15 Minuten Lesedauer.
 
 Wir freuen uns auf einen bunten Abend. [Mailadressen und sonstige Informationen findet ihr hier](https://lesebuehnetextgenuss.de/kontakt.html).
+
+**Der Einsendeschluss ist der 22.5.**
