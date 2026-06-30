@@ -3,7 +3,7 @@ title: Nachlese zur Lesebühne am 17. Juni
 date: 2026-06-30 07:41:00 +02:00
 ---
 
-![IMG_7040.jpg](/uploads/IMG_7040.jpg)
+![61049088_423660871521013_8047190084589453312_o.jpg](/uploads/61049088_423660871521013_8047190084589453312_o.jpg)
 
 Schön wars gewesen im[ Quartier Theater](https://quartier-theater.de/).
 
@@ -23,8 +23,6 @@ Es haben für uns gelesen:
 
 {% soundcloud https://soundcloud.com/jan-fischer-238479972/jonathan-kruse-chavela-favela-hund-3 %}
 
-**Rosa López **(Caracas, Venezuela). Sie sammelt Träume und macht daraus Texte für Bühne und Papier. In ihren Lesungen verbinden sich Traumprotokoll, Performance und absurde Beobachtungen zu einer eigenen kleinen Welt. Wiederkehrende Figuren wie Mr. Books bevölkern ihre Texte ebenso wie überraschende Alltagsmomente und kosmische Zufälle. Rosa lebt und schreibt in Hannover.
+\*\*Rosa López \*\*(Caracas, Venezuela). Sie sammelt Träume und macht daraus Texte für Bühne und Papier. In ihren Lesungen verbinden sich Traumprotokoll, Performance und absurde Beobachtungen zu einer eigenen kleinen Welt. Wiederkehrende Figuren wie Mr. Books bevölkern ihre Texte ebenso wie überraschende Alltagsmomente und kosmische Zufälle. Rosa lebt und schreibt in Hannover.
 
 {% soundcloud https://soundcloud.com/jan-fischer-238479972/rosa-lopez-komisches-kosmisches-4 %}
-
-
