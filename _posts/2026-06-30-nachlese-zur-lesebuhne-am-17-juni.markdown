@@ -17,7 +17,7 @@ Es haben für uns gelesen:
 
 **Melina Weber**. Sie re-arrangiert gerne Zimmerpflanzen, Möbel und Worte. Veröffentlicht sind ihre Texte in der Erstsemesteranthologie "dreiviertelvier" (2023/24) und regelmäßig in der Anthologie Landpartie. Aktuell studiert sie Literarisches Schreiben und Kulturjournalismus an der Universität Hildesheim, ist außerdem Mitglied der offenen Lesereihe "Irgendwie 248 Sachen e.V.", der offenen Textwerkstatt "TxT Studio" und Teil der Jury des Evangelischen Buchpreises.
 
-{% soundcloud https://soundcloud.com/jan-fischer-238479972/melina-weber-was-du-nicht-horst-2 %}
+{% soundcloud https://soundcloud.com/jan-fischer-238479972/melina-weber-was-du-nicht-horst-2 %} 
 
 **Jonathan Kruse Chavela**. Er ist 27 Jahre alt und schreibt, seit er sich erinnern kann. Er schreibt vor allem im Bereich Mystery/Horror und strebt dort unter seinem Pseudonym Felix Jensen dieses Jahr seine erste Publikation an. Er lebt (und schreibt) in Hannover.
 
