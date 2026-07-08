@@ -27,7 +27,7 @@ jobs:
       - name: Install Imagemagick
         run: | 
           sudo apt-get -y update 
-          sudo apt-get install imagemagick libmagickwand-dev npx
+          sudo apt-get install imagemagick libmagickwand-dev npm
 
       - name: 🔨 install dependencies & build site
         uses: limjh16/jekyll-action-ts@v2
