@@ -6,4 +6,5 @@
 {% capture sizes %}
 (min-width: 1130px) 375px, (min-width: 800px) 250px, 160px
 {% endcapture %}
-<img src="/{{ path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }}" sizes="{{ sizes | strip_newlines }}">
+<img src="/uploads/logo.jpg" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }}"
+    sizes="{{ sizes | strip_newlines }}">

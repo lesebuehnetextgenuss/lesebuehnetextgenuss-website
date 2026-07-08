@@ -31,24 +31,3 @@ announcement_link:
 sass:
   sass_dir: _sass
   style: compressed
-plugins:
-- jekyll-responsive-image
-responsive_image:
-  template: _includes/responsive_image.html
-  default_quality: 80
-  sizes:
-  - width: 160
-    quality: 60
-  - width: 250
-    quality: 70
-  - width: 375
-    quality: 70
-  - width: 470
-    quality: 70
-  - width: 650
-    quality: 75
-  - width: 820
-  strip: true
-  cache: true
-  extra_images:
-  - uploads/*/*/*/*.{jpeg,jpg}

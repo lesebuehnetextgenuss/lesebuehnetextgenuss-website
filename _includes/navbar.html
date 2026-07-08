@@ -1,5 +1,5 @@
 <a href="/">
-    {% responsive_image path: uploads/logo.jpg template: _includes/responsive_image_logo.html %}
+    {% include responsive_image_logo.html path="uploads/logo.jpg" %}
     {% if page.title %}
     <h2>
         {{ site.title | newline_to_br }}
@@ -26,7 +26,7 @@
         <a href="/kontakt.html">Kontakt</a>
     </div>
 </nav>
-<a href={% if site.announcement_link|strip != "" %}"{{site.announcement_link}}"{% else %}"javascript:;"{% endif %}
+<a href={% if site.announcement_link|strip !="" %}"{{site.announcement_link}}"{% else %}"javascript:;"{% endif %}
     id="announcement">
 
     {% if site.announcement != "" %}

@@ -27,7 +27,7 @@ jobs:
       - name: Install Imagemagick
         run: | 
           sudo apt-get -y update 
-          sudo apt-get install imagemagick libmagickwand-dev
+          sudo apt-get install imagemagick libmagickwand-dev npx
 
       - name: 🔨 install dependencies & build site
         uses: limjh16/jekyll-action-ts@v2
@@ -63,6 +63,9 @@ jobs:
           # restore-keys: ${{ runner.os }}-gems-
           ### In cases where you want to specify the cache key, enable the above 2 inputs
           ### Follows the format here https://github.com/actions/cache
+
+      - name: run jampack
+        run: npx @divriots/jampack ./_site
 
       - name: 🚀 deploy
         uses: peaceiris/actions-gh-pages@v4
