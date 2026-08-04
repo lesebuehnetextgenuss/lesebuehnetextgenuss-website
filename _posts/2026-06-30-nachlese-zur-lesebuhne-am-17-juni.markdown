@@ -23,6 +23,6 @@ Es haben für uns gelesen:
 
 {% soundcloud https://soundcloud.com/jan-fischer-238479972/jonathan-kruse-chavela-favela-hund-3 %}
 
-\*\*Rosa López \*\*(Caracas, Venezuela). Sie sammelt Träume und macht daraus Texte für Bühne und Papier. In ihren Lesungen verbinden sich Traumprotokoll, Performance und absurde Beobachtungen zu einer eigenen kleinen Welt. Wiederkehrende Figuren wie Mr. Books bevölkern ihre Texte ebenso wie überraschende Alltagsmomente und kosmische Zufälle. Rosa lebt und schreibt in Hannover.
+**Rosa López**(Caracas, Venezuela). Sie sammelt Träume und macht daraus Texte für Bühne und Papier. In ihren Lesungen verbinden sich Traumprotokoll, Performance und absurde Beobachtungen zu einer eigenen kleinen Welt. Wiederkehrende Figuren wie Mr. Books bevölkern ihre Texte ebenso wie überraschende Alltagsmomente und kosmische Zufälle. Rosa lebt und schreibt in Hannover.
 
 {% soundcloud https://soundcloud.com/jan-fischer-238479972/rosa-lopez-komisches-kosmisches-4 %}
