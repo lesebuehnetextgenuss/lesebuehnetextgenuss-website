@@ -14,7 +14,7 @@ Es haben dort für uns gelesen:
 {% soundcloud https://soundcloud.com/jan-fischer-238479972/stefanie-kopetschke-guten-abend-gut-nacht-1 %}
 
 
-**Milena Wurmstädt ** (Jahrgang 1997, geboren in Bremen). Schreibt mal wahre, mal fiktionale Geschichten. Volontierte beim Redaktionsnetzwerk Deutschland in
+**Milena Wurmstädt** (Jahrgang 1997, geboren in Bremen). Schreibt mal wahre, mal fiktionale Geschichten. Volontierte beim Redaktionsnetzwerk Deutschland in
 Hannover, Berlin und Wien und war Redakteurin bei der Märkischen
 Allgemeinen in Potsdam. Lernt jetzt an der Reportageschule Reutlingen
 neu lesen und schreiben. Zuhause noch immer in Hannover.
